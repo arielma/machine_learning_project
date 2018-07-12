@@ -1,0 +1,25 @@
+References:
+Plotly
+1. https://plot.ly/python/figure-labels/
+2. https://plot.ly/python/text-and-annotations/
+3. https://plot.ly/python/box-plots/
+Python and Pandas
+4. https://stackoverflow.com/questions/10665889/how-to-take-column-slices-of-dataframe-in-pandas
+5. https://stackoverflow.com/questions/45540015/handling-division-by-zero-in-pandas-calculations
+6. https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+7. https://stackoverflow.com/questions/26716616/convert-a-pandas-dataframe-to-a-dictionary
+8. https://www.pythoncentral.io/how-to-sort-a-list-tuple-or-object-with-sorted-in-python/
+Sklearn, pipeline, GridSearchCV
+9. http://scikit-learn.org/stable/modules/preprocessing.html
+10. http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html#sklearn.model_selection.StratifiedShuffleSplit
+11. http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_pipeline.html
+12. http://scikit-learn.org/stable/auto_examples/plot_compare_reduction.html
+13. https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-2.html
+14. https://www.kaggle.com/kevinarvai/fine-tuning-a-classifier-in-scikit-learn
+15. https://stackoverflow.com/questions/48586022/how-to-perform-stratifiedshufflesplit-in-gridsearchcv
+16. http://scikit-learn.org/stable/modules/grid_search.html#multimetric-grid-search
+17. https://stackoverflow.com/questions/50151785/multiple-scoring-parameters-not-working-with-gridsearch
+18. https://discussions.udacity.com/t/f-score-is-ill-defined-and-being-set-to-0-0-due-to-no-predicted-samples/204684
+19. https://stackoverflow.com/questions/44999289/print-feature-names-for-selectkbest-where-k-value-is-inside-param-grid-of-gridse
+20. https://discussions.udacity.com/t/gridsearchcv-and-testingtraining-data/36107/4
+21. https://discussions.udacity.com/t/feature-selection-pipelines-gridsearchcv-and-stratifiedshufflesplit/341422
